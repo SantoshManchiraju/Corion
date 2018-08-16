@@ -1,9 +1,0 @@
-#JSGF V1.0;
-grammar goforward;
-
-public <command> = <hotkey> | <move> <direction>;
-<hotkey> = hello | robot;
-<move>= go | move;
-<direction>= forward | backward;
-<units>= meter | meters;
-<distance>= ( one | two | three | four | five | six | seven | eight | nine | ten | twenty);
