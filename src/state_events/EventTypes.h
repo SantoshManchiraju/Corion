@@ -1,0 +1,31 @@
+/*
+ * EventTypes.h
+ *
+ *  Created on: Jul 28, 2017
+ *      Author: bob
+ */
+
+#ifndef SRC_STATE_EVENTS_EVENTTYPES_H_
+#define SRC_STATE_EVENTS_EVENTTYPES_H_
+
+namespace event {
+
+enum EventType {
+
+	START_WATCHING,
+	START_LISTENING,
+	STOP_WATCHING,
+	STOP_LISTENING,
+	PAUSE_WATCHING,
+	START_TRACKING,
+	SPEECH_RECOGNIZED,
+	START_LEARNING,
+	START_DETECTION,
+	NONE,
+	DONE,
+	SHUT_DOWN
+};
+
+}
+
+#endif /* SRC_STATE_EVENTS_EVENTTYPES_H_ */

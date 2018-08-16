@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <count value="11"/>
+    <images>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/10.jpg">
+            <box top="21" left="333" width="108" height="90"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/8.jpg">
+            <box top="116" left="260" width="336" height="290"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/7.jpg">
+            <box top="167" left="231" width="267" height="263"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/6.jpg">
+            <box top="157" left="282" width="126" height="119"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/5.jpg">
+            <box top="199" left="324" width="138" height="145"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/4.jpg">
+            <box top="175" left="141" width="272" height="278"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/3.jpg">
+            <box top="121" left="85" width="282" height="279"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/2.jpg">
+            <box top="212" left="216" width="124" height="114"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/1.jpg">
+            <box top="46" left="223" width="362" height="314"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Clock/0.jpg">
+            <box top="203" left="390" width="91" height="83"/>
+        </image>
+    </images>
+</dataset>

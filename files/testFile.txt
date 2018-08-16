@@ -1,0 +1,4 @@
+1	Bottle	1
+2	HeadPhones	1
+1	Clock	1
+1	Mug	1

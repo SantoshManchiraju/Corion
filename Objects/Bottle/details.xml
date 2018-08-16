@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <count value="6"/>
+    <images>
+        <image file="/home/bob/Thesis/Corion/Objects/Bottle/5.jpg">
+            <box top="101" left="341" width="88" height="294"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Bottle/4.jpg">
+            <box top="108" left="337" width="100" height="282"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Bottle/3.jpg">
+            <box top="30" left="331" width="147" height="432"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Bottle/2.jpg">
+            <box top="151" left="340" width="55" height="190"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Bottle/1.jpg">
+            <box top="22" left="195" width="139" height="450"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Bottle/0.jpg">
+            <box top="62" left="239" width="102" height="362"/>
+        </image>
+    </images>
+</dataset>

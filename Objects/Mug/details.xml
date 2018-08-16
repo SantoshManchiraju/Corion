@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <count value="4"/>
+    <images>
+        <image file="/home/bob/Thesis/Corion/Objects/Mug/3.jpg">
+            <box top="315" left="7" width="143" height="132"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Mug/2.jpg">
+            <box top="292" left="308" width="114" height="108"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/Mug/1.jpg">
+            <box top="314" left="209" width="123" height="109"/>
+        </image>
+    </images>
+</dataset>

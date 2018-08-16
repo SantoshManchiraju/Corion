@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <count value="9"/>
+    <images>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/8.jpg">
+            <box top="361" left="61" width="61" height="54"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/7.jpg">
+            <box top="34" left="100" width="338" height="348"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/6.jpg">
+            <box top="93" left="97" width="231" height="216"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/5.jpg">
+            <box top="3" left="183" width="296" height="283"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/4.jpg">
+            <box top="135" left="222" width="187" height="193"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/3.jpg">
+            <box top="175" left="113" width="147" height="145"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/2.jpg">
+            <box top="36" left="99" width="405" height="432"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/1.jpg">
+            <box top="30" left="97" width="360" height="381"/>
+        </image>
+        <image file="/home/bob/Thesis/Corion/Objects/HeadPhones/0.jpg">
+            <box top="25" left="88" width="380" height="383"/>
+        </image>
+    </images>
+</dataset>
